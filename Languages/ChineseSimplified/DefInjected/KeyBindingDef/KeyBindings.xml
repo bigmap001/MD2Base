@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BuildingOnOffToggle.label>切换一个建筑 开/关</BuildingOnOffToggle.label>
+
+	<CoalPowerToggleFuelConsume.label>toggle the coal power plant from consuming fuel</CoalPowerToggleFuelConsume.label>
+
+	<ExtendMechWall.label>extend machanical wall</ExtendMechWall.label>
+
+	<RecessMechWall.label>recess machanical wall</RecessMechWall.label>
+
+	<ExtendMechEmbrasure.label>extend machanical embrasure</ExtendMechEmbrasure.label>
+
+	<CrematoriusToggleStripBodies.label>crematorius strip bodies toggle</CrematoriusToggleStripBodies.label>
+
+	<FillInFissure.label>fill fissure</FillInFissure.label>
+
+	<DeepStorageEjectAll.label>deep storage eject all</DeepStorageEjectAll.label>
+
+	<DeactivateDroid.label>deactivate droid</DeactivateDroid.label>
+
+	<ExtractorChangeResource.label>extractor choose resource</ExtractorChangeResource.label>
+
+	<FissureGeneratorChangeFissure.label>fissure generator choose fissure</FissureGeneratorChangeFissure.label>
+
+</LanguageData>
